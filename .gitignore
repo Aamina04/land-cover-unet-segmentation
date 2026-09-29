@@ -1,0 +1,4 @@
+deepglobe_tiles/
+*.pth
+__pycache__/
+.ipynb_checkpoints/
